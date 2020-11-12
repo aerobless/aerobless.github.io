@@ -110,5 +110,10 @@ A custom AMI (Amazon Machine Image) is useful if we have a lot of software to in
 
 Can be inside or outside of EB environment. Inside is intended more for developers as the db is terminated if the env is terminated. However with in-place deployments this would work since the environment is never terminated. Outside is intended for productions. The db is created separate from the EB env, so it's not terminated with the environment.
 
++ [Preview WebApp from Cloud9 - Security Group](https://www.youtube.com/watch?v=RrKRN9zRBWs&feature=youtu.be&t=3219)
+
+IP Address for metadata: http://169.254.169.254/latest/meta-data
+
+https://youtu.be/RrKRN9zRBWs?t=7570
 
 

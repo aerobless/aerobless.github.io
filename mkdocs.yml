@@ -24,6 +24,10 @@ google_analytics:
 markdown_extensions:
   - admonition
   - attr_list
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+      clickable_checkbox: true
   - codehilite:
       guess_lang: false
   - toc:
