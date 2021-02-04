@@ -7,6 +7,10 @@
 + Command: `lsof -ti:port | xargs kill`
 + Example Usage: `lsof -ti:8080 | xargs kill`
 
+## Shortcuts
+
++ Show/hide hidden files in Finder: `CMD + SHIFT + .` 
+
 ## Useful apps
 
 + [AllToMP3](https://github.com/alltomp3/alltomp3-app): Download Spotify playlists as mp3 files. Useful to load songs onto apple watch for offline listening. Uses YouTube in the background to download songs.

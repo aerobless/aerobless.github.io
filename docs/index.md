@@ -1,18 +1,20 @@
 # Home
 
-Welcome to my orphanage of side-projects, ideas and just random snippets of stuff that I find interesting.
+Hi 👋, I'm Theo. Welcome to my personal github page where I collect interesting snippets, side-projects and other stuff that fascinates me.
 
-!!! warning 
-    Things on here may be half-baked and quality is not guaranteed ;-). You have been warned.
+## Things that I'm working on
 
-## Projects
-Feel free to visit one of my other more fleshed out projects :)
-
-+ [My Smart Home Setup](http://aerobless.github.io/SmartHome)
++ [My Smart Home Documentation](https://sixtymeters.com)
++ [Home Assistant Configuration](https://github.com/aerobless/home-assistant-configuration)
++ [SnowfallVR](https://github.com/aerobless/SnowfallVR)
 
 ## Social media
+You can find me on various social media as aerobless or eletiy. If you'd like to get into contact hit me up on twitter [@eletiy](https://twitter.com/eletiy).
 
 + [Twitter](https://twitter.com/eletiy)
 + [GitHub](https://github.com/aerobless)
-+ [IMDB: favourite TV shows](https://www.imdb.com/list/ls062354463/)
++ [Thingiverse](https://www.thingiverse.com/aerobless)
++ [IMDB: favorite TV shows](https://www.imdb.com/list/ls062354463/)
++ [Stadia](https://stadia.com/profile/8811648868618063843)
 + [Scoresaber](https://scoresaber.com/u/76561198015301556&sort=2)
++ [Goodreads](https://www.goodreads.com/theowinter)
